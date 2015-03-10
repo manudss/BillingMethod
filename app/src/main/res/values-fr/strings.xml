@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Méthode Billing</string>
+    <string name="action_settings">Config</string>
+    <string name="action_add">Ajouter</string>
+    <string name="navigation_drawer_close">Ouvrir Menu</string>
+    <string name="navigation_drawer_open">Fermer Menu</string>
+    <string name="section_calendar">Calendrier</string>
+    <string name="section_dashboard">Dashboard</string>
+    <string name="section_set">Ajouter</string>
+    <string name="action_share">Partager</string>
+    <string name="day_add_title">Add data for the day</string>
+    <string name="day_add_select_icon_label">Select feelings</string>
+    <string name="day_add_pick">after pick day</string>
+</resources>

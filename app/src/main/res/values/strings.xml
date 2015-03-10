@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Billing Method</string>
+
+    <string name="section_dashboard">Dashboard</string>
+    <string name="section_set">Add</string>
+    <string name="section_calendar">Calendar</string>
+
+    <string name="navigation_drawer_open">Open navigation</string>
+    <string name="navigation_drawer_close">Close navigation</string>
+
+    <string name="action_add">Add</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_share">share</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="day_add_title">Add data for the day</string>
+    <string name="day_add_select_icon_label">Select feelings</string>
+    <string name="day_add_pick">after pick day</string>
+</resources>
